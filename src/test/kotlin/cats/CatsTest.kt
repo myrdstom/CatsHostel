@@ -4,7 +4,6 @@ import io.ktor.application.*
 import io.ktor.http.*
 import io.ktor.server.testing.*
 import mainModule
-import org.junit.Assert
 import org.junit.Test
 import asJson
 import io.ktor.http.HttpMethod.Companion.Delete
